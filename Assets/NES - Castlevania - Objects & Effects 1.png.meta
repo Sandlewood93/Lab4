@@ -1,0 +1,605 @@
+fileFormatVersion: 2
+guid: c2c4e1d644a6c0d43b0dc2d11f53dd0b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5571950901903632635
+    second: NES - Castlevania - Objects & Effects 1_0
+  - first:
+      213: -6831988196379348304
+    second: NES - Castlevania - Objects & Effects 1_1
+  - first:
+      213: 5335051515047586370
+    second: NES - Castlevania - Objects & Effects 1_2
+  - first:
+      213: -5519380083581469054
+    second: Candle_wall1
+  - first:
+      213: -7946472482122481027
+    second: Candle_wall2
+  - first:
+      213: 7822413426763469452
+    second: NES - Castlevania - Objects & Effects 1_6
+  - first:
+      213: -9191442183218950751
+    second: Candle_floor_lit
+  - first:
+      213: -2463154987897429325
+    second: Candle_floor_unlit
+  - first:
+      213: -7111862551933818090
+    second: NES - Castlevania - Objects & Effects 1_9
+  - first:
+      213: 4301435745913577365
+    second: NES - Castlevania - Objects & Effects 1_10
+  - first:
+      213: -6058930040738964533
+    second: NES - Castlevania - Objects & Effects 1_11
+  - first:
+      213: 4107194581484616959
+    second: NES - Castlevania - Objects & Effects 1_12
+  - first:
+      213: -3811730228675181668
+    second: NES - Castlevania - Objects & Effects 1_13
+  - first:
+      213: -5158305604623582260
+    second: NES - Castlevania - Objects & Effects 1_14
+  - first:
+      213: -3108968803928282446
+    second: NES - Castlevania - Objects & Effects 1_15
+  - first:
+      213: -2559614064675666634
+    second: NES - Castlevania - Objects & Effects 1_16
+  - first:
+      213: -9144254589727480194
+    second: NES - Castlevania - Objects & Effects 1_17
+  - first:
+      213: -8038792770756289572
+    second: NES - Castlevania - Objects & Effects 1_18
+  - first:
+      213: 5015586882801362463
+    second: NES - Castlevania - Objects & Effects 1_19
+  - first:
+      213: 7251035876754021548
+    second: NES - Castlevania - Objects & Effects 1_20
+  - first:
+      213: -5373018669781377333
+    second: NES - Castlevania - Objects & Effects 1_21
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Castlevania - Objects & Effects 1_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 208
+        width: 50
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850bf71c8ddd3db4591322fdd731b5cc
+      internalID: 5571950901903632635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Objects & Effects 1_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 194
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6f40b63efdeb649b9450d7ab866045
+      internalID: -6831988196379348304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Objects & Effects 1_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 207
+        width: 77
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9812629cc142aef489dbff5268001e8c
+      internalID: 5335051515047586370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candle_wall1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 186
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a149950576f1d1d44a8195a4d06dea8c
+      internalID: -5519380083581469054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candle_wall2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 186
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058e1c06412ad5741b9e80db8a38220a
+      internalID: -7946472482122481027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Objects & Effects 1_6
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 192
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f859503a174254f8dcb4274164536e
+      internalID: 7822413426763469452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candle_floor_lit
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 177
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20abd5879983eae48abf4a8e1d120328
+      internalID: -9191442183218950751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candle_floor_unlit
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 177
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5c675c0df554646937764814775ab9
+      internalID: -2463154987897429325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Objects & Effects 1_9
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 186
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76d3482cac85f547aec3ccb81dbc5e5
+      internalID: -7111862551933818090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Objects & Effects 1_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 143
+        width: 55
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f6e701ede8af24098487946c85bce0
+      internalID: 4301435745913577365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Objects & Effects 1_11
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 144
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59606da344c3f1a4ca50063aac61b508
+      internalID: -6058930040738964533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Objects & Effects 1_12
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 142
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c1b80c2801b46419c478abb5be3683
+      internalID: 4107194581484616959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Objects & Effects 1_13
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 142
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7352e08f21c221145b37dfa579f48722
+      internalID: -3811730228675181668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Objects & Effects 1_14
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 158
+        width: 80
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67718e5e91fab8842adf26f5f2a4c940
+      internalID: -5158305604623582260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Objects & Effects 1_15
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 145
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e9bbbfc6d2589479612b4bd2b7091b
+      internalID: -3108968803928282446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Objects & Effects 1_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 117
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8458ffd8befbf474ab4bc64ce344c834
+      internalID: -2559614064675666634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Objects & Effects 1_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 292
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a18896d079eb440a4a1423b06de9e4
+      internalID: -9144254589727480194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Objects & Effects 1_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 62
+        width: 8
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43a4d2c026507d48b8670e55d5c91d0
+      internalID: -8038792770756289572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Objects & Effects 1_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 62
+        width: 16
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf47e2d6fef2b94cad6f2708ef004fa
+      internalID: 5015586882801362463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Objects & Effects 1_20
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 62
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe855684459e1347884c4a73196d314
+      internalID: 7251035876754021548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Objects & Effects 1_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 276
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191fcb5afece49d4ba7db456a1c0679f
+      internalID: -5373018669781377333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3d55eeff83a2e51418a0a5a88cdac989
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

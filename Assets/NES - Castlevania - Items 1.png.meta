@@ -1,0 +1,1253 @@
+fileFormatVersion: 2
+guid: db9872501ad680c4cb0218ba12918b08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6286185359738383936
+    second: NES - Castlevania - Items 1_0
+  - first:
+      213: -9052481427870759641
+    second: NES - Castlevania - Items 1_1
+  - first:
+      213: -7517381234159002321
+    second: NES - Castlevania - Items 1_2
+  - first:
+      213: 4337729843266512891
+    second: NES - Castlevania - Items 1_3
+  - first:
+      213: -3591438915722052190
+    second: NES - Castlevania - Items 1_4
+  - first:
+      213: 8635641886345577431
+    second: NES - Castlevania - Items 1_5
+  - first:
+      213: -1630027768016115977
+    second: NES - Castlevania - Items 1_6
+  - first:
+      213: 182274995461140208
+    second: Heart_lil
+  - first:
+      213: 8577700980589105885
+    second: NES - Castlevania - Items 1_8
+  - first:
+      213: -768974950562896260
+    second: NES - Castlevania - Items 1_9
+  - first:
+      213: -7038688210044256893
+    second: NES - Castlevania - Items 1_10
+  - first:
+      213: -4447056939100739169
+    second: NES - Castlevania - Items 1_11
+  - first:
+      213: 4392655340858623846
+    second: NES - Castlevania - Items 1_12
+  - first:
+      213: 5442357172394082901
+    second: Money_100
+  - first:
+      213: -7563199017444813155
+    second: NES - Castlevania - Items 1_14
+  - first:
+      213: -3232820382864907517
+    second: heart_big
+  - first:
+      213: -6126315163903596313
+    second: NES - Castlevania - Items 1_16
+  - first:
+      213: -8100323223989968832
+    second: NES - Castlevania - Items 1_17
+  - first:
+      213: -6892249502484174478
+    second: Money_400
+  - first:
+      213: 7096972442063802525
+    second: NES - Castlevania - Items 1_19
+  - first:
+      213: -2202868316740848803
+    second: NES - Castlevania - Items 1_20
+  - first:
+      213: 5851744736840179472
+    second: NES - Castlevania - Items 1_21
+  - first:
+      213: 160688756985094087
+    second: NES - Castlevania - Items 1_22
+  - first:
+      213: -7382548561541106888
+    second: NES - Castlevania - Items 1_23
+  - first:
+      213: -4327036080299303715
+    second: Invincibility_drink
+  - first:
+      213: -1748468502870336818
+    second: Money_700
+  - first:
+      213: -3383801608130176855
+    second: NES - Castlevania - Items 1_26
+  - first:
+      213: -5040654551788509797
+    second: NES - Castlevania - Items 1_27
+  - first:
+      213: -6783817056929822653
+    second: Holy_water_pickup
+  - first:
+      213: -7041538575883953109
+    second: Holy_water_drop
+  - first:
+      213: 5289787804856440118
+    second: Cross
+  - first:
+      213: 9023963445112861327
+    second: NES - Castlevania - Items 1_31
+  - first:
+      213: -717107610339567962
+    second: NES - Castlevania - Items 1_32
+  - first:
+      213: 1522679233066369167
+    second: Holy_fire1
+  - first:
+      213: 5787785637943455989
+    second: NES - Castlevania - Items 1_34
+  - first:
+      213: 1225932492856414065
+    second: NES - Castlevania - Items 1_35
+  - first:
+      213: -2966096675386608791
+    second: NES - Castlevania - Items 1_36
+  - first:
+      213: -4751800543617306593
+    second: NES - Castlevania - Items 1_37
+  - first:
+      213: -7511338827175313272
+    second: NES - Castlevania - Items 1_38
+  - first:
+      213: -7798774717832287345
+    second: Food
+  - first:
+      213: -6931402158343268508
+    second: Holy_fire2
+  - first:
+      213: 7217294757579632744
+    second: NES - Castlevania - Items 1_41
+  - first:
+      213: -6336080336104526251
+    second: NES - Castlevania - Items 1_42
+  - first:
+      213: 7700216760907027827
+    second: NES - Castlevania - Items 1_43
+  - first:
+      213: -4079007552639980536
+    second: NES - Castlevania - Items 1_44
+  - first:
+      213: 8884047731113371838
+    second: NES - Castlevania - Items 1_45
+  - first:
+      213: 3450340732785554285
+    second: NES - Castlevania - Items 1_46
+  - first:
+      213: -7444103827966093948
+    second: NES - Castlevania - Items 1_47
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Castlevania - Items 1_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 245
+        width: 81
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3542b09e79112498940060790285a1
+      internalID: -6286185359738383936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Items 1_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 245
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f1ce48aee9a27409f374aeb07c4560
+      internalID: -9052481427870759641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Items 1_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 245
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92981990da6a91746a69a2491b01d6a3
+      internalID: -7517381234159002321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Items 1_3
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 245
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348f8eb0abe924a46964e1b66063c19e
+      internalID: 4337729843266512891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Items 1_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 245
+        width: 69
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba2a4ed8cbef2c41934c850629009d5
+      internalID: -3591438915722052190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Items 1_5
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 244
+        width: 65
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227138b5c9fee434886238da103d6af8
+      internalID: 8635641886345577431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Items 1_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 217
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a780f1e7775d48499d3818831b89177
+      internalID: -1630027768016115977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heart_lil
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 230
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033d8a86f9788eb49afb44c81409240b
+      internalID: 182274995461140208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Items 1_8
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 228
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552eb9f83ba58184192c1aeb8e3ff29d
+      internalID: 8577700980589105885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Items 1_9
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 224
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb149972440b7e49b9cdb3f23681a81
+      internalID: -768974950562896260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Items 1_10
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 224
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4895b13a676f5c1449e5d50b22615c24
+      internalID: -7038688210044256893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Items 1_11
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 224
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff4e7f7e2fceb242aea4a92ad617304
+      internalID: -4447056939100739169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Items 1_12
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 224
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e3c1c2651f83541a4c2b046e557e6a
+      internalID: 4392655340858623846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_100
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 219
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec345733ab0c4c04481437604da6f891
+      internalID: 5442357172394082901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Items 1_14
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 219
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71930722f3b07b44c9bb59841b8278ad
+      internalID: -7563199017444813155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_big
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 208
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc90580cbde8cb74ab4ce916071eb55f
+      internalID: -3232820382864907517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Items 1_16
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 200
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39965a35cb9377d4b8ece8ae5c5d2df9
+      internalID: -6126315163903596313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Items 1_17
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 181
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28f9c8d88493ed439b3a879a8b6f09a
+      internalID: -8100323223989968832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_400
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 194
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968f370ba0618af4cae0b98b7641c500
+      internalID: -6892249502484174478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Items 1_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 181
+        width: 63
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa9b51ddeb8794498109fadd601b672
+      internalID: 7096972442063802525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Items 1_20
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 181
+        width: 63
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa349550683ec34eaef72d777ef94eb
+      internalID: -2202868316740848803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Items 1_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 181
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76087235159fcf246a5b584f803bde53
+      internalID: 5851744736840179472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Items 1_22
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 194
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2024c536200c60c4686b69c993157e56
+      internalID: 160688756985094087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Items 1_23
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 174
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88168a80ace482244943ec004a785323
+      internalID: -7382548561541106888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_drink
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 158
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd459294fedef9840ab8dfcd91c144ff
+      internalID: -4327036080299303715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_700
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 170
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17b96cb10f7fed4f94b4ceaef80f748
+      internalID: -1748468502870336818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Items 1_26
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 170
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0227d2a88da509438a62259da34a312
+      internalID: -3383801608130176855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Items 1_27
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 156
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49be577a3856b744680566d0a6291015
+      internalID: -5040654551788509797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy_water_pickup
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1455c869597e049a188c60372bce1d
+      internalID: -6783817056929822653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy_water_drop
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 156
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a040c7fa3ad1ec4cb084ce71ef895cf
+      internalID: -7041538575883953109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cross
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 156
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8e7f98c61364a46b5cbd543919dbe9
+      internalID: 5289787804856440118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Items 1_31
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 150
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8143edcdfdca234198e9649d0d155e7
+      internalID: 9023963445112861327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Items 1_32
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 129
+        width: 56
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ffd3a51d171c5488cee0ef016535fd
+      internalID: -717107610339567962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy_fire1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 134
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff402dde1357c9547997fbfa3dde8897
+      internalID: 1522679233066369167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Items 1_34
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 129
+        width: 66
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529e3b84de2bdcd4c92cbd5e9baed8b6
+      internalID: 5787785637943455989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Items 1_35
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 140
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cecd83e47ee334ca5881c13f324601
+      internalID: 1225932492856414065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Items 1_36
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 140
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131a19b0b3d57b34a8382fb3bf90b45d
+      internalID: -2966096675386608791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Items 1_37
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 140
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a14968a0afc51a4b8e09cd3d4bce546
+      internalID: -4751800543617306593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Items 1_38
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 140
+        width: 59
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00432eb9300497548b08b3cc4ea8e432
+      internalID: -7511338827175313272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 107
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3876be204f115840a1666d497ba2d46
+      internalID: -7798774717832287345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy_fire2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 109
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3150b45215681c44a89de6ed67b4924b
+      internalID: -6931402158343268508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Items 1_41
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 106
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842f3c0d675dd0e4181f9ad72d5a922f
+      internalID: 7217294757579632744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Items 1_42
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 106
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c5ce841a8316344ba8ae556163ffd6
+      internalID: -6336080336104526251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Items 1_43
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 79
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde7692c90fcc15478f03b34606a0682
+      internalID: 7700216760907027827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Items 1_44
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 79
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449c31ec35ddab4429965dd5612e23b0
+      internalID: -4079007552639980536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Items 1_45
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 37
+        width: 127
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0dd15f7cfc8a44993f817280585d8a
+      internalID: 8884047731113371838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Items 1_46
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 38
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38ee802926fc734f99801dfd23874c1
+      internalID: 3450340732785554285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Items 1_47
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 5
+        width: 122
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7807329abd9044744b6f6353f1d51bdd
+      internalID: -7444103827966093948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9c2e0f4f0663df3409e536b3eeaa6c6b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
